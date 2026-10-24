@@ -1,72 +1,96 @@
-Hi, I’m Enjoy-i2 👋
+Hi, I’m IBRAHIM OTUDI 👋
 
-IT Support | Networking | IT Operations | Cybersecurity Fundamentals
+IT Support | Network Operations | Technical Troubleshooting
 
-I’m an IT professional with a background in technical support, customer service, and network operations. I enjoy troubleshooting technical issues, supporting users, and building practical projects to strengthen my technical skills.
+IT professional interested in IT support, network operations, infrastructure, and cybersecurity fundamentals. I enjoy troubleshooting technical issues, supporting users, maintaining network equipment, and developing hands-on technical projects.
 
-👨‍💻 About Me
+My goal is to combine practical problem-solving, continuous learning, and clear technical documentation to deliver reliable IT support and network services.
 
-* Core focus: IT Support, Help Desk, and Network Support
-* Technical interests: Cisco Networking, Cybersecurity, and Cloud Fundamentals
-* Experience: User support, troubleshooting, network maintenance, and network-device installation
+
+👨‍💻 Professional Profile
+
+* Focus Areas: IT Support, Help Desk, Network Support, and IT Operations
+* Networking: Network fundamentals, routers, switches, connectivity troubleshooting, and device maintenance
+* Technical Projects: Arduino-based access control and RFID integration
+* Cybersecurity: Foundational security concepts and access-control principles
+* Professional Interests: Infrastructure support, network reliability, and technical problem-solving
 * Location: Saudi Arabia
+
+
 
 🛠️ Technical Skills
 
-Area	Skills
-IT Support	Help Desk, technical troubleshooting, user support, incident reporting
-Networking	Network fundamentals, routers and switches, LAN troubleshooting
-IT Operations	Network maintenance, fault reporting, technical documentation
+Category	Skills & Technologies
+IT Support	Technical troubleshooting, user support, issue reporting, and documentation
+Networking	Network fundamentals, routers and switches, LAN connectivity, and network maintenance
+IT Operations	Hardware support, device installation, fault reporting, and operational support
 Cybersecurity	Security fundamentals and access-control concepts
-Hardware & Embedded	Arduino, RFID, digital input/output
-Productivity	Microsoft Office
+Embedded Systems	Arduino, RFID, digital input/output, and hardware integration
+Tools & Productivity	Microsoft Office
+
 
 🚀 Featured Project
 
-🔐 RFID Door Lock — Arduino Access Control Prototype
+🔐 RFID-Based Door Lock System
 
-An Arduino-based prototype that compares an RFID card/tag UID with a configured authorized UID and provides feedback through an LCD, relay output, LEDs, and a buzzer.
+Project Type: Arduino-Based Access Control Prototype
 
-Highlights
+Designed and implemented an RFID-based access control prototype using an Arduino board and an MFRC522 RFID reader. The system checks a scanned card’s UID against a configured authorized UID and provides access feedback through an LCD, LEDs, a buzzer, and a relay.
 
-* Integrated an MFRC522 RFID reader and a 16×2 I²C LCD.
-* Implemented authorized and unauthorized access feedback.
-* Controlled a relay output, status LEDs, and a buzzer.
-* Documented hardware setup, operating flow, and security limitations.
+Key Features
 
-Technologies: Arduino C/C++, MFRC522, SPI, I²C, Digital I/O
+* RFID card/tag identification using the MFRC522 module.
+* Authorized and unauthorized access handling.
+* LCD status messages for user feedback.
+* Relay output control and LED status indicators.
+* Buzzer alerts for access events.
 
-➡️ View the RFID Door Lock repository
+Technologies Used: Arduino C/C++, MFRC522, SPI, I²C LCD, Digital I/O, Relay Module
 
-Educational prototype only; not a production-grade physical security system.
+Project Repository: View Source Code and Project Files
 
-📜 Certifications & Training
+Note: This project is an educational prototype. UID-based identification alone is not sufficient for high-security physical access control.
 
-* Google IT Support Professional Certificate — Google (2024)
-* Introduction to Cybersecurity — Cisco (2023)
-* Router and Switch Basics — Cisco (2023)
-* IT Fundamentals — Cisco (2023)
-* Microsoft Systems Officer — MCIT (2023)
-* Implementation and Management of Cisco Networks — MCIT (2022)
 
-Ensure each title matches the official credential. Add verification links when available.
+📜 Certifications & Professional Training
 
-💼 Professional Background
+* Google IT Support Professional Certificate — Google, 2024
+* Introduction to Cybersecurity — Cisco, 2023
+* Router and Switch Basics — Cisco, 2023
+* IT Fundamentals — Cisco, 2023
+* Microsoft Systems Officer — MCIT, 2023
+* Implementation and Management of Cisco Networks — MCIT, 2022
 
-* Provided customer support through calls and email and helped troubleshoot service issues.
-* Supported network operations, installed and maintained network devices, reported faults, and checked network health.
+Credential titles are listed as provided and should be checked against the original certificates. Verification links can be added where available.
 
-🎯 Current Goals
 
-* Strengthen practical networking and troubleshooting skills.
-* Expand knowledge of cybersecurity and cloud fundamentals.
-* Publish clear documentation for hands-on technical projects.
-* Continue developing professionally in IT support and network operations.
+💼 Professional Experience
 
-📫 Connect
+My professional background includes customer support and network operations, with experience in areas such as:
+
+* Assisting customers through phone and email support channels.
+* Troubleshooting service-related issues and communicating solutions.
+* Supporting network operations and maintaining network devices.
+* Reporting technical faults and checking network connectivity.
+* Helping maintain reliable day-to-day technical services.
+
+
+🎯 Professional Development
+
+I am focused on continuing to develop my technical capabilities in:
+
+* IT support and systematic troubleshooting.
+* Networking concepts and infrastructure operations.
+* Cybersecurity fundamentals and secure access practices.
+* Hands-on projects with clear documentation.
+* Building a practical portfolio that demonstrates technical knowledge and problem-solving.
+
+
+📫 Connect With Me
 
 * GitHub: @Enjoy-i2
+* Projects: Explore my repositories
 
 ⸻
 
-Thanks for visiting my profile — I’m always learning, building, and improving.
+Thank you for visiting my profile. I’m committed to continuous learning, practical problem-solving, and professional growth in IT.
